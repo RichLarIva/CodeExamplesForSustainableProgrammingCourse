@@ -1,0 +1,15 @@
+D:\CSProjects\CodeExamples\CodeExamplesCS\obj\Debug\net6.0\CodeExamplesCS.csproj.AssemblyReference.cache
+D:\CSProjects\CodeExamples\CodeExamplesCS\obj\Debug\net6.0\CodeExamplesCS.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSProjects\CodeExamples\CodeExamplesCS\obj\Debug\net6.0\CodeExamplesCS.AssemblyInfoInputs.cache
+D:\CSProjects\CodeExamples\CodeExamplesCS\obj\Debug\net6.0\CodeExamplesCS.AssemblyInfo.cs
+D:\CSProjects\CodeExamples\CodeExamplesCS\obj\Debug\net6.0\CodeExamplesCS.csproj.CoreCompileInputs.cache
+D:\CSProjects\CodeExamples\CodeExamplesCS\bin\Debug\net6.0\CodeExamplesCS.exe
+D:\CSProjects\CodeExamples\CodeExamplesCS\bin\Debug\net6.0\CodeExamplesCS.deps.json
+D:\CSProjects\CodeExamples\CodeExamplesCS\bin\Debug\net6.0\CodeExamplesCS.runtimeconfig.json
+D:\CSProjects\CodeExamples\CodeExamplesCS\bin\Debug\net6.0\CodeExamplesCS.dll
+D:\CSProjects\CodeExamples\CodeExamplesCS\bin\Debug\net6.0\CodeExamplesCS.pdb
+D:\CSProjects\CodeExamples\CodeExamplesCS\obj\Debug\net6.0\CodeExamplesCS.dll
+D:\CSProjects\CodeExamples\CodeExamplesCS\obj\Debug\net6.0\refint\CodeExamplesCS.dll
+D:\CSProjects\CodeExamples\CodeExamplesCS\obj\Debug\net6.0\CodeExamplesCS.pdb
+D:\CSProjects\CodeExamples\CodeExamplesCS\obj\Debug\net6.0\CodeExamplesCS.genruntimeconfig.cache
+D:\CSProjects\CodeExamples\CodeExamplesCS\obj\Debug\net6.0\ref\CodeExamplesCS.dll

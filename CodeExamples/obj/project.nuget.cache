@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "P4iZugr9xE43TPs0E7MfGYByJVTdam3hhm50UfDKID54CNQKDUut0czcdYIHL1xSN8ZTt4f8JQBuu0MSnwziOg==",
+  "success": true,
+  "projectFilePath": "D:\\CSProjects\\CodeExamples\\CodeExamples\\CodeExamples.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\richa\\.nuget\\packages\\fsharp.core\\7.0.200\\fsharp.core.7.0.200.nupkg.sha512"
+  ],
+  "logs": []
+}
