@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "P4iZugr9xE43TPs0E7MfGYByJVTdam3hhm50UfDKID54CNQKDUut0czcdYIHL1xSN8ZTt4f8JQBuu0MSnwziOg==",
+  "dgSpecHash": "IhSrHTTzcogn2lN7NBU6Y9/K+vOakEfKWC+6azIA1ImtizpNsG0zRAeHY6HGq/LhFWq7qvm+u1fCR9FQpxcAeQ==",
   "success": true,
-  "projectFilePath": "D:\\CSProjects\\CodeExamples\\CodeExamples\\CodeExamples.fsproj",
+  "projectFilePath": "C:\\Users\\richa\\Documents\\GitHub\\CodeExamplesForSustainableProgrammingCourse\\CodeExamples\\CodeExamples.fsproj",
   "expectedPackageFiles": [
     "C:\\Users\\richa\\.nuget\\packages\\fsharp.core\\7.0.200\\fsharp.core.7.0.200.nupkg.sha512"
   ],

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CSProjects\\CodeExamples\\CodeExamplesCS\\CodeExamplesCS.csproj": {}
+    "C:\\Users\\richa\\Documents\\GitHub\\CodeExamplesForSustainableProgrammingCourse\\CodeExamplesCS\\CodeExamplesCS.csproj": {}
   },
   "projects": {
-    "D:\\CSProjects\\CodeExamples\\CodeExamplesCS\\CodeExamplesCS.csproj": {
+    "C:\\Users\\richa\\Documents\\GitHub\\CodeExamplesForSustainableProgrammingCourse\\CodeExamplesCS\\CodeExamplesCS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CSProjects\\CodeExamples\\CodeExamplesCS\\CodeExamplesCS.csproj",
+        "projectUniqueName": "C:\\Users\\richa\\Documents\\GitHub\\CodeExamplesForSustainableProgrammingCourse\\CodeExamplesCS\\CodeExamplesCS.csproj",
         "projectName": "CodeExamplesCS",
-        "projectPath": "D:\\CSProjects\\CodeExamples\\CodeExamplesCS\\CodeExamplesCS.csproj",
+        "projectPath": "C:\\Users\\richa\\Documents\\GitHub\\CodeExamplesForSustainableProgrammingCourse\\CodeExamplesCS\\CodeExamplesCS.csproj",
         "packagesPath": "C:\\Users\\richa\\.nuget\\packages\\",
-        "outputPath": "D:\\CSProjects\\CodeExamples\\CodeExamplesCS\\obj\\",
+        "outputPath": "C:\\Users\\richa\\Documents\\GitHub\\CodeExamplesForSustainableProgrammingCourse\\CodeExamplesCS\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

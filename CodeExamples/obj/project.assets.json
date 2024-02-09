@@ -114,11 +114,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CSProjects\\CodeExamples\\CodeExamples\\CodeExamples.fsproj",
+      "projectUniqueName": "C:\\Users\\richa\\Documents\\GitHub\\CodeExamplesForSustainableProgrammingCourse\\CodeExamples\\CodeExamples.fsproj",
       "projectName": "CodeExamples",
-      "projectPath": "D:\\CSProjects\\CodeExamples\\CodeExamples\\CodeExamples.fsproj",
+      "projectPath": "C:\\Users\\richa\\Documents\\GitHub\\CodeExamplesForSustainableProgrammingCourse\\CodeExamples\\CodeExamples.fsproj",
       "packagesPath": "C:\\Users\\richa\\.nuget\\packages\\",
-      "outputPath": "D:\\CSProjects\\CodeExamples\\CodeExamples\\obj\\",
+      "outputPath": "C:\\Users\\richa\\Documents\\GitHub\\CodeExamplesForSustainableProgrammingCourse\\CodeExamples\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
