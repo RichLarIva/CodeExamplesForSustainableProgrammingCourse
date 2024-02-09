@@ -2,7 +2,7 @@
 
 open System // Gets access to functionality in System namespace.
 
-// Defines a list of names
+// Defines a list of names and numbers below
 let names = ["Reed"; "Jonah"; "Jerome"; "Gina"; "Daisy"; "Gabriella"]
 let numbers = [2; 5; 3; 6; 7; 9]
 

@@ -34,7 +34,7 @@ namespace HKRCodeExamples
             foreach ( string name in names ) 
             {
                 greet( name );
-                GreetName( name );
+                Console.WriteLine(GreetName(name));
             }
             foreach(int number in numbers )
             {
